@@ -1,0 +1,9 @@
+root = true
+
+[*]
+indent_style =  space #TIPO DE INDENTAÇÃO
+indent_size = 2 #TAMANHO DA INDENTAÇÃO
+end_of_line = lf #FORMATAÇÃO DO FINAL DA LINHA
+charset = utf-8 #FORMATAÇÃO DOS CARACTERES
+trim_trailing_whitespace = true #OBRIGA A COLOCAR UM ESPAÇO DEPOIS DE SÍMBOLOS
+insert_final_newline = true #FINALIZA O CÓDIGO COM UMA LINHA EM BRANCO
